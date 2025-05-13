@@ -1,4 +1,4 @@
-# 💫About Me :
+# 🕵️‍♂️ About Me :
 Computer Science professional with a passion in Software Engineering and Machine Learning.
 
 # 💻Tech Stack
